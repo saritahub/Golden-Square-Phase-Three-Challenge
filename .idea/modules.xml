@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Golden-Square-Phase-Three-Challenge.iml" filepath="$PROJECT_DIR$/.idea/Golden-Square-Phase-Three-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mocking_bites.iml" filepath="$PROJECT_DIR$/.idea/modules/mocking_bites.iml" />
     </modules>
   </component>
 </project>
